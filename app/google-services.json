@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196407365473",
+    "project_id": "loginappcomok",
+    "storage_bucket": "loginappcomok.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196407365473:android:f0c0ce880592a539e4bf20",
+        "android_client_info": {
+          "package_name": "com.br.eustaquio.loginappcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOVXJVIw2sjPBZJ_BROyJr-8RgXwQVJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
